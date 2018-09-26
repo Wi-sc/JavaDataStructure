@@ -27,6 +27,7 @@ moveDISKs(int n, char A, char B, char C) {
 ```
 ### 输入输出范例  
 >Please enter number of disks:
+
 >**3**
 >The progress from A to B is:
 >Move disk 1 from A to B
